@@ -7,11 +7,7 @@ __      __ _____  ______ ________  _   _          __  __
      \/    |_____||______|  |_|    |_| \_/_/    \_\_|  |_|
 HoangTrong
 ]]--
---[[
-Encrypted by Hackers House
-Tool : https://hackershouse.tech/online-lua-obfuscator-free-unlimited
-Version: 1.1.0
-]]
+
 _G["PVkTaoUcMK"]=function(src)
   local box={__src=src}
   return setmetatable({}, {
